@@ -1,0 +1,24 @@
+PODS:
+  - LocationPickerViewController (3.3)
+  - OpenWeatherMapAPIConsumer (0.0.2)
+  - SwiftyJSON (4.1.0)
+
+DEPENDENCIES:
+  - LocationPickerViewController
+  - OpenWeatherMapAPIConsumer
+  - SwiftyJSON
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - LocationPickerViewController
+    - OpenWeatherMapAPIConsumer
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  LocationPickerViewController: 8190e6bc3562e5fe5c52d92b23786f634b6de42c
+  OpenWeatherMapAPIConsumer: eb8d4ff8612d11fad91abfb178d1f2f18559b7b8
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+
+PODFILE CHECKSUM: 3cbc4a86ebd054acf8c0ee8458a9582142b4fa6a
+
+COCOAPODS: 1.5.3
